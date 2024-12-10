@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Extra+Condensed:wght@600&display=swap');
+
+/*--------------------------------------------------------------*/
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+.div_1{
+    background-color: white;
+}
+.div_1 .brand_name{
+    font-weight:bold;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 25px;
+}
+.div_1 .brand_name:hover{
+    color: #5c5470;
+}
+.div_1 li a:hover{
+    color: orange;
+    background-color: black ;
+}
+
