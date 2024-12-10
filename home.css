@@ -20,4 +20,9 @@
     color: orange;
     background-color: black ;
 }
-
+/*--------------------------------------------------------------*/
+.div_2{
+    height: 100vh;
+    background: url("headerimg1.jpg") no-repeat center fixed ;
+    background-size: cover;
+}
